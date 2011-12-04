@@ -1,0 +1,7 @@
+## Interface: 40300
+## Author: Askunia ( EU - Zenedar )
+## Version: 1.0
+## Title: Searing Plasma Healing Bars
+## SavedVariablesPerCharacter: SPHD_DB
+
+SearHeal.lua
